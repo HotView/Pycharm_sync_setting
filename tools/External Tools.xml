@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="PyInstaller" description="pack .py file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Python36\Scripts\pyinstaller.exe" />
+      <option name="PARAMETERS" value="-y -F -w $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="Pyinstaller dos" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Python36\Scripts\pyinstaller.exe" />
+      <option name="PARAMETERS" value="-y -F  $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>

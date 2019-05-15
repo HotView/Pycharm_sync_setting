@@ -1,0 +1,16 @@
+<toolSet name="PYQT5">
+  <tool name="pyuic5" description="change file " showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Python36\Scripts\pyuic5.exe" />
+      <option name="PARAMETERS" value="$FilePath$ -o $FileNameWithoutExtension$_rc.py" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="Qt Designer" description="satrt app" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Python36\Lib\site-packages\pyqt5_tools\designer.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>

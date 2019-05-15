@@ -1,0 +1,68 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_92&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_92" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IDEA jdk" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_92&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_92" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 " />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="D:\Python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Python36/DLLs" type="simple" />
+            <root url="file://D:/Python36/Lib" type="simple" />
+            <root url="file://D:/Python36" type="simple" />
+            <root url="file://D:/Python36/Lib/site-packages" type="simple" />
+            <root url="file://D:/Python36/Lib/site-packages/pip-18.1-py3.6.egg" type="simple" />
+            <root url="file://D:/Python36/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Python36/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Python36/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1072250519" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
