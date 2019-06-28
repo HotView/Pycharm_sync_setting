@@ -11,6 +11,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="t2d" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="npz" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
       <mapping pattern="demo" type="Python" />
