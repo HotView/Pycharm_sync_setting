@@ -13,6 +13,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="t2d" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
+      <mapping ext="igs" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="npz" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
