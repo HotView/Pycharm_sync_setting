@@ -18,6 +18,7 @@
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping pattern="demo" type="Python" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
