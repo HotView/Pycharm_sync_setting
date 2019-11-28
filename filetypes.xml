@@ -11,6 +11,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="efi" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="t2d" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="igs" type="PLAIN_TEXT" />
